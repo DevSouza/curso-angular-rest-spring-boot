@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: devsouza
+Build-Jdk: 15.0.1
+Implementation-Title: algamoney-api
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.algaworks.algamoney-api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/algamoney-api
+Created-By: Maven Integration for Eclipse
+
